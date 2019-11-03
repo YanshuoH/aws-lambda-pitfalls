@@ -27,7 +27,7 @@
     - Cold Start
     - External-internet Invocation
     - Async Programming
-    - Desert
+    - Dessert
 - Conclusion
 
 ## context.Background() 背景故事
@@ -184,7 +184,7 @@ Total 112.59 USD
 
 你可以说这节约了运维成本，至少不用为服务器担忧，但我仍然要说，我用来计算的数据可能是总流量的十分之一，大公司的流量可能是这个的百倍，价格自然不只是以 10 的三次方计算的。
 
-Big Scrum !
+Big Scam !
 
 ## Long Connections
 
@@ -400,7 +400,7 @@ func OpenDB(c driver.Connector) *DB {
 
 ```
 
-## Desert
+## Dessert
 
 上面的内容比较复杂，最后说一点轻松的，当作主菜后的甜点。
 
